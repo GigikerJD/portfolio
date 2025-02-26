@@ -1,0 +1,17 @@
+{
+    "programming": {
+        "Java": "",
+        "C#": "",
+        "PHP": "",
+        "HTML": "",
+        "CSS": "",
+        "Javascript": ""
+    },
+    "frameworks:": {
+        "React": "",
+        "Angular": "",
+        "Bootstrap": "",
+        "SpringBoot": "",
+        "Blazor": ""
+    }
+}
